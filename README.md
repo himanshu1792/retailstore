@@ -2,10 +2,10 @@
 
 Application url - http://localhost:8085/discount (post)
 
-user_type string's possible values - 
-1 for employee 
-2 for Affiliated get 10% discount
-3 for being customer for 2 years
+user_type string's possible values : 
+1 - employee 
+2 - Affiliated
+3 - customer for 2 years. 
 For any other user_type discount will not be applied.
 
 request - {
